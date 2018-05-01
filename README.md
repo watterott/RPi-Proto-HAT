@@ -6,8 +6,4 @@ Prototyping Area HAT (Hardware Attached on Top) for Raspberry Pi.
 * Prototyping Area
 * ID EEPROM
 * [Raspberry Pi HAT](https://github.com/raspberrypi/hats) compatible (40 pin connector)
-
-
-## Shop:
-* [RPi-Proto-HAT](http://www.watterott.com/en/RPi-Proto-HAT)
-* [RPi-Proto-HAT with ID-EEPROM](http://www.watterott.com/en/RPi-Proto-HAT-ID-EEPROM)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/rpi-proto-hat/)**
